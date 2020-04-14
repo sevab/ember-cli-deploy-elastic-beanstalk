@@ -46,7 +46,7 @@
     "awscred": "^1.1.0",
     "chalk": "^1.1.1",
     "digest-stream": "^0.2.2",
-    "ember-cli-babel": "^5.1.5",
+    "ember-cli-babel": "^6.16.0",
     "ember-cli-deploy-plugin": "^0.2.0",
     "fs-promise": "^0.3.1",
     "glob": "^6.0.1",
